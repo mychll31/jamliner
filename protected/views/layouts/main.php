@@ -21,8 +21,12 @@ $this->widget('bootstrap.widgets.TbNavbar', array(
 				array(
 					'class' => 'bootstrap.widgets.TbMenu',
 					'items' => array(
-						array('label'=>'Home', 'url'=>'#', 'active'=>true),
+						array('label'=>'Home', 'url'=>'index/admin', 'active'=>true),
 						array('label'=>'Route', 'url'=>array('routes/admin'), 'active'=>true),
+						array('label'=>'Schedule', 'url'=>array('schedules/admin'), 'active'=>true),
+						array('label'=>'Fare', 'url'=>array('fare/admin'), 'active'=>true),
+						array('label'=>'Passenger Types', 'url'=>array('passengerTypes/admin'), 'active'=>true),
+						array('label'=>'Buses', 'url'=>array('buses/admin'), 'active'=>true),
 						)
 				     )
 				)
