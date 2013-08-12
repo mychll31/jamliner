@@ -27,6 +27,7 @@ $this->widget('bootstrap.widgets.TbNavbar', array(
 						array('label'=>'Fare', 'url'=>array('fare/admin'), 'active'=>true),
 						array('label'=>'Passenger Types', 'url'=>array('passengerTypes/admin'), 'active'=>true),
 						array('label'=>'Buses', 'url'=>array('buses/admin'), 'active'=>true),
+						array('label'=>'Ticket', 'url'=>array('tickets/admin'), 'active'=>true),
 						)
 				     )
 				)

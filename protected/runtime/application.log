@@ -436,3 +436,425 @@ Stack trace:
 REQUEST_URI=/jamliner/index.php?r=routes/create
 HTTP_REFERER=http://localhost/jamliner/index.php?r=routes/create
 ---
+2013/08/08 13:13:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 13:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 13:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 13:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 13:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 13:35:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 14:55:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 14:59:58 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:02:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:02:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:02:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:02:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:05:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:05:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:05:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:05:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/yii/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/yii/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/yii/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#8 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#9 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/jamliner/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/08 15:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "buyticket/admin".' in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('buyticket/admin')
+#1 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/jamliner/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jamliner/index.php?r=buyticket/admin
+---
+2013/08/08 16:21:37 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_3` FOREIGN KEY (`route_id`) REFERENCES `routes` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7).
+in /var/www/jamliner/protected/controllers/TicketsController.php (73)
+in /var/www/jamliner/index.php (13)
+2013/08/08 16:21:37 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_3` FOREIGN KEY (`route_id`) REFERENCES `routes` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7)' in /var/www/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/yii/framework/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/jamliner/protected/controllers/TicketsController.php(73): CActiveRecord->save()
+#3 /var/www/yii/framework/web/actions/CInlineAction.php(49): TicketsController->actionCreate()
+#4 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/create')
+#14 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/jamliner/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/create
+HTTP_REFERER=http://localhost/jamliner/index.php?r=tickets/create
+---
+2013/08/08 16:22:43 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`schedules`, CONSTRAINT `schedules_ibfk_1` FOREIGN KEY (`bus_id`) REFERENCES `buses` (`id`)). The SQL statement executed was: INSERT INTO `schedules` (`bus_id`, `departure_time`, `arrival_time`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in /var/www/jamliner/protected/controllers/SchedulesController.php (73)
+in /var/www/jamliner/index.php (13)
+2013/08/08 16:22:43 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`schedules`, CONSTRAINT `schedules_ibfk_1` FOREIGN KEY (`bus_id`) REFERENCES `buses` (`id`)). The SQL statement executed was: INSERT INTO `schedules` (`bus_id`, `departure_time`, `arrival_time`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in /var/www/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/yii/framework/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/jamliner/protected/controllers/SchedulesController.php(73): CActiveRecord->save()
+#3 /var/www/yii/framework/web/actions/CInlineAction.php(49): SchedulesController->actionCreate()
+#4 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('schedules/creat...')
+#14 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/jamliner/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/jamliner/index.php?r=schedules/create
+HTTP_REFERER=http://localhost/jamliner/index.php?r=schedules/create
+---
+2013/08/08 16:23:44 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_3` FOREIGN KEY (`route_id`) REFERENCES `routes` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7).
+in /var/www/jamliner/protected/controllers/TicketsController.php (73)
+in /var/www/jamliner/index.php (13)
+2013/08/08 16:23:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_3` FOREIGN KEY (`route_id`) REFERENCES `routes` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7)' in /var/www/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/yii/framework/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/jamliner/protected/controllers/TicketsController.php(73): CActiveRecord->save()
+#3 /var/www/yii/framework/web/actions/CInlineAction.php(49): TicketsController->actionCreate()
+#4 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/create')
+#14 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/jamliner/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/create
+HTTP_REFERER=http://localhost/jamliner/index.php?r=tickets/create
+---
+2013/08/08 16:24:01 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_1` FOREIGN KEY (`schedule_id`) REFERENCES `schedules` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7).
+in /var/www/jamliner/protected/controllers/TicketsController.php (73)
+in /var/www/jamliner/index.php (13)
+2013/08/08 16:24:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_1` FOREIGN KEY (`schedule_id`) REFERENCES `schedules` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7)' in /var/www/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/yii/framework/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/jamliner/protected/controllers/TicketsController.php(73): CActiveRecord->save()
+#3 /var/www/yii/framework/web/actions/CInlineAction.php(49): TicketsController->actionCreate()
+#4 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/create')
+#14 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/jamliner/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/create
+HTTP_REFERER=http://localhost/jamliner/index.php?r=tickets/create
+---
+2013/08/08 16:24:12 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_1` FOREIGN KEY (`schedule_id`) REFERENCES `schedules` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7).
+in /var/www/jamliner/protected/controllers/TicketsController.php (73)
+in /var/www/jamliner/index.php (13)
+2013/08/08 16:24:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_1` FOREIGN KEY (`schedule_id`) REFERENCES `schedules` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7)' in /var/www/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/yii/framework/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/jamliner/protected/controllers/TicketsController.php(73): CActiveRecord->save()
+#3 /var/www/yii/framework/web/actions/CInlineAction.php(49): TicketsController->actionCreate()
+#4 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/create')
+#14 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/jamliner/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/create
+HTTP_REFERER=http://localhost/jamliner/index.php?r=tickets/create
+---
+2013/08/08 16:24:29 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_1` FOREIGN KEY (`schedule_id`) REFERENCES `schedules` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7).
+in /var/www/jamliner/protected/controllers/TicketsController.php (73)
+in /var/www/jamliner/index.php (13)
+2013/08/08 16:24:29 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`jam`.`tickets`, CONSTRAINT `tickets_ibfk_1` FOREIGN KEY (`schedule_id`) REFERENCES `schedules` (`id`)). The SQL statement executed was: INSERT INTO `tickets` (`id`, `tkt_no`, `schedule_id`, `seat_id`, `bus_id`, `route_id`, `status`, `created_at`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7)' in /var/www/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/yii/framework/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/jamliner/protected/controllers/TicketsController.php(73): CActiveRecord->save()
+#3 /var/www/yii/framework/web/actions/CInlineAction.php(49): TicketsController->actionCreate()
+#4 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /var/www/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/create')
+#14 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/jamliner/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/create
+HTTP_REFERER=http://localhost/jamliner/index.php?r=tickets/create
+---
+2013/08/12 09:41:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/12 09:42:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/12 09:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/12 09:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
+2013/08/12 09:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "buyticket".' in /var/www/yii/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(270): CController->missingAction('buyticket')
+#1 /var/www/yii/framework/web/CWebApplication.php(282): CController->run('buyticket')
+#2 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tickets/buytick...')
+#3 /var/www/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/jamliner/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/jamliner/index.php?r=tickets/buyticket
+---
