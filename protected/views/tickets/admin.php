@@ -26,20 +26,9 @@ $('.search-form form').submit(function(){
 ");
 ?>
 
-<h1>Buy Tickets</h1>
-
-<div class="input-append">
-<input class="span2" id="appendedInputButtons" type="text">
-<button class="btn" type="button">Buy</button>
-<?php echo CHtml::link('Link Text',array('controller/action')); ?>
-</div>
-<br>
-Remaining Tickets:
-
-<br>
-<br>
-<br>
-<br>
+<?php $this->renderPartial('ticketbuy',array(
+	'model'=>$model,
+)); ?>
 <?php echo CHtml::link('Advanced Search','#',array('class'=>'search-button')); ?>
 <div class="search-form" style="display:none">
 <?php $this->renderPartial('_search',array(

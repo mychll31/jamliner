@@ -170,4 +170,8 @@ class TicketsController extends Controller
 			Yii::app()->end();
 		}
 	}
+
+	/****/
+	public function actionTicketbuy(){
+	}
 }
